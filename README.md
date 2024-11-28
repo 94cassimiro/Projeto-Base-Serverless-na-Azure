@@ -1,0 +1,1 @@
+# Projeto-Base-Serverless-na-Azure
